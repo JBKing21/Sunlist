@@ -13,3 +13,7 @@ One feature I was hoping to include in the app was the ability to prioritise the
 The API for the weather app was sourced from https://openweathermap.org/api.
 
 A 7 day forecast would have been nice, but the single day one is free of charge so I've gone with that for now.
+
+After uploading the site to netlify, the weather API doesn't seem to work at all, so that will have to be looked in to. 
+
+For now, I'm happy with what I managed to put together in such a short amount of time. More updates to come in future.
